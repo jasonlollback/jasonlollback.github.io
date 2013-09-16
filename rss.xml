@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jason Lollback</title><link>http://jasonlollback.com/</link><description>Jason Lollback's technology writings</description><atom:link href="http://jasonlollback.com/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Mon, 16 Sep 2013 21:55:16 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Pilot</title><link>http://jasonlollback.com//posts/pilot/</link><description>&lt;p&gt;Choosing a publishing platform for a personal website hasn't been a trivial process. I've had to work though identifying systems that would meet some basic criteria that are important to me:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Low administration: Time should be spent on content and readability, not on infrastructure and databases.&lt;/li&gt;
+&lt;li&gt;Support for a responsive design. Mobile and tablet devices have quickly become the primary way that digital content is consumed and separate mobile sites aren't a good experience for the reader.&lt;/li&gt;
+&lt;li&gt;Speed:  Poor hosting, slow networks or underpowered infrastructure can all make for a slow website.&lt;/li&gt;
+&lt;li&gt;Openness:  I want to have control of the data and the technical platform.  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;I've found that the best fit for these requirements is a workflow based on a static site generator, which is a relatively minor evolution of how simple web publishing began.&lt;/p&gt;
+&lt;h3&gt;The Static Website Generator Workflow&lt;/h3&gt;
+&lt;ol&gt;&lt;li&gt;Write content in plain text files using Markdown formatting.&lt;/li&gt;
+&lt;li&gt;The static generator converts Markdown to HTML.&lt;/li&gt;
+&lt;li&gt;Upload HTML files to a hosting site, which could be a hosting service, GitHub or Amazon S3.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;The static site generator takes my markdown formatted text files and converts them to HTML.  Index and archive pages are automatically created and final HTML files are then uploaded to a webserver.&lt;/p&gt;
+&lt;p&gt;There are many implementations of static site generators which means that if in the future I want to switch to a different engine I'm not locked in.&lt;/p&gt;
+&lt;p&gt;Writing is an essential skill for any technology worker.  Being able to manage a content publishing system complete with database infrastructure shouldn't be, which is why a static site generator is ideal for my needs.&lt;/p&gt;</description><category>nikola</category><guid>http://jasonlollback.com//posts/pilot/</guid><pubDate>Fri, 06 Sep 2013 14:00:00 GMT</pubDate></item></channel></rss>
